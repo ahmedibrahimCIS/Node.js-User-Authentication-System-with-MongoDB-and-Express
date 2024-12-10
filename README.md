@@ -1,9 +1,10 @@
-# Node.js-User-Authentication-System-with-MongoDB-and-Express
-#Project Description
+## Node.js-User-Authentication-System-with-MongoDB-and-Express
+
+# Project Description
 
 This project is a user authentication API built with Node.js, Express, and MongoDB. It provides secure user registration and login functionality, password hashing, and basic error handling. This setup can serve as a foundation for more complex authentication systems in web applications.
 
-#Features
+# Features
 
 User Registration: Create an account with username, email, and password.
 
@@ -13,7 +14,7 @@ Password Hashing: Uses bcrypt to securely store passwords.
 
 Error Handling: Provides meaningful error messages for invalid input or database issues.
 
-#Technology Stack
+# Technology Stack
 
 Node.js: JavaScript runtime for backend development.
 
